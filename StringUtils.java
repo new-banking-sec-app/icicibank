@@ -1,2 +1,2 @@
-Updating in the master branch
+Updated in the development branch
 This file contains the string related functions
